@@ -1,0 +1,8 @@
+numpy
+dlib
+gpiozero
+opencv-python
+Pillow
+pydantic
+requests
+pyserial
